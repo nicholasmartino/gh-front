@@ -31,6 +31,7 @@ export default {
 			antialias: true,
 			powerPreference: "high-performance",
 		})
+		this.renderer.setClearColor(0xff0000, 0)
 
 		const width = window.innerWidth * 0.56
 		const height = window.innerHeight * 0.96
