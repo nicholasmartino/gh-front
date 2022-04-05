@@ -5,8 +5,9 @@
 
 <script>
 import * as THREE from 'three'
-import * as jsonScene from '../../../public/data/Scene.json'
+import * as jsonScene from '../../../public/data/json/Scene.json'
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls'
+import * as fs from 'file-system'
 
 export default {
 	name: "ThreeScene",
@@ -29,9 +30,8 @@ export default {
 			canvas: canvas, 
 			alpha: true,
 			antialias: true,
-			powerPreference: "high-performance",
 		})
-		this.renderer.setClearColor(0xff0000, 0)
+		this.renderer.setClearColor(0x000000, 0)
 
 		const width = window.innerWidth * 0.56
 		const height = window.innerHeight * 0.96
@@ -54,9 +54,20 @@ export default {
 		controls.update()
 
 		const loader = new THREE.ObjectLoader()
+		console.log(jsonScene)
 		this.scene = loader.parse(jsonScene.default)
+
 		console.log("Scene: ", this.scene)
 		this.animate()
+	},
+	updateCamera () {
+		fs.writeFile('./data/json/Camera.json', data, 'utf8', (err) => {
+			if (err) {
+			console.log(`Error writing file: ${err}`);
+			} else {
+			console.log(`File is written successfully!`);
+			}
+		})
 	}
 }
 </script>

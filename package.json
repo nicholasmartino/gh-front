@@ -58,6 +58,7 @@
   ],
   "keywords": [],
   "dependencies": {
+    "file-system": "^2.2.2",
     "sass-loader": "^12.6.0"
   }
 }

@@ -15,17 +15,7 @@ export const store = new Vuex.Store({
   getters: {
     getDraw: state => {
       return state.draw
-    },
-    getSelectedParcel: state => {
-      return state.parcelInfo
-    },
-    getParcelsInfo: state => {
-      return state.parcelsInfo
-    },
-    getMap: (state) => {
-      return state.mapbox
-    },
-    
+    },    
     getClickedFeaturesFromState: (state, e) => {
       // Set `bbox` as 5px reactangle area around clicked point.
       const bbox = [
@@ -60,19 +50,6 @@ export const store = new Vuex.Store({
     setParcelsInfo: (state, parcelsInfo) => {
       state.parcelsInfo = parcelsInfo
     },
-    setVisibleParcels: (state, pids) => {
-      state.visibleParcels['pids'] = pids
-    },
-    setDraw: (state, draw) => {
-      state.draw = draw
-    },
-    loadMap: (state, mapbox) => {
-      state.mapbox = mapbox
-    },
-    generatePolygons: (state, polygons) => {
-      updateDraw(state.mapbox, state.draw, state.widthRange)
-      state.polygons = polygons
-    }
   },
   actions: {
     loadMap (context) {

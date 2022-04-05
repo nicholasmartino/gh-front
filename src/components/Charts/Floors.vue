@@ -13,8 +13,10 @@ export default {
     },
     methods: {
         async fetchData() {
-        const areaCSV = "../data/FloorAreas.csv"
+        const areaCSV = "../data/csv/FloorAreas.csv"
+        console.log(areaCSV)
         const dfAreas = await dfd.readCSV(areaCSV)
+        console.log(dfAreas)
         const layout = {
             bargap: 0,
             bargroupgap: 0.1,

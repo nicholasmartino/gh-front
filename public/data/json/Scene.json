@@ -14,7 +14,7 @@
 },
 "geometries": [
 {
-"uuid": "F834E720-CA12-448D-8D2C-A9A613B3BB1F" , 
+"uuid": "C76E2899-A51A-4D7D-B906-D19907E1917D" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -50,7 +50,7 @@
 }
 },
 {
-"uuid": "3F77FB0F-E82D-4E79-89D2-793ADA344AF9" , 
+"uuid": "853B6AEE-DE96-435D-9D05-D856A3783690" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -86,7 +86,7 @@
 }
 },
 {
-"uuid": "0730277E-6542-4AD9-B798-94E771A5A2E9" , 
+"uuid": "5339BE11-CB86-4F88-8FC7-6A79F25960B2" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -122,7 +122,7 @@
 }
 },
 {
-"uuid": "6EF5D01E-12BE-4FE8-AF0B-291141A7F61A" , 
+"uuid": "F593A6ED-A93C-4781-826C-5691581D3A69" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -158,7 +158,7 @@
 }
 },
 {
-"uuid": "7BF2E464-CA61-4160-90B5-FB0CC4AF9154" , 
+"uuid": "F2470904-ED48-415E-90AC-FC07693E761C" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -194,7 +194,7 @@
 }
 },
 {
-"uuid": "D1E088D3-7E9B-4E50-806F-14DD8FD4C846" , 
+"uuid": "A2BEC903-814C-4F87-AEF8-DF8C785E823F" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -230,7 +230,7 @@
 }
 },
 {
-"uuid": "A923FEDE-6AEA-4CC9-9AD5-989CE67E6898" , 
+"uuid": "7789B3A7-264F-44E8-BDE5-1596D64D2710" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -266,7 +266,7 @@
 }
 },
 {
-"uuid": "FC4DF01F-FFEF-435B-A21C-420989E3188E" , 
+"uuid": "77CD06DE-C6B9-4C04-B1D0-2D60988FF8D5" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -302,7 +302,7 @@
 }
 },
 {
-"uuid": "D9CC47F7-2A12-470F-BBBC-58A32AECECDC" , 
+"uuid": "CEB41FA1-EDB8-42CA-B53C-B739A1E6921F" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -338,7 +338,7 @@
 }
 },
 {
-"uuid": "13FD2D5C-A4D7-45FE-B88C-5638BCDD9390" , 
+"uuid": "ACC1766E-8D25-4075-9743-253E7EEAF943" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -374,7 +374,7 @@
 }
 },
 {
-"uuid": "736B02E7-664D-4296-9392-3F32639819CB" , 
+"uuid": "3C45E5C2-35AC-4B2C-97AA-771A8A4071C7" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -410,7 +410,7 @@
 }
 },
 {
-"uuid": "718EFB22-277D-4BAE-89F9-C656722BC0AA" , 
+"uuid": "B1C95123-CC07-4A02-B30B-C863550D013A" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -446,7 +446,7 @@
 }
 },
 {
-"uuid": "F3933B6B-731D-44BD-8C6E-853BAF7FFD9D" , 
+"uuid": "50830B97-1F78-4BD2-812B-48EF020C4EA6" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -482,7 +482,7 @@
 }
 },
 {
-"uuid": "98000C97-9D72-405A-8605-832BF487D246" , 
+"uuid": "3924EF91-38B5-40DE-A519-BAADAAFB9EE3" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -518,7 +518,7 @@
 }
 },
 {
-"uuid": "296CA150-0C18-4868-A0BB-6AEC8BD00763" , 
+"uuid": "9BF30EC8-9845-4198-AD1A-39326559CADF" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -554,7 +554,7 @@
 }
 },
 {
-"uuid": "50685F07-038D-457E-97A4-DFA28D162AEC" , 
+"uuid": "D67BD9F5-1CFE-48CA-AB41-C5D27112BD8B" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -590,7 +590,7 @@
 }
 },
 {
-"uuid": "5BEE3DF0-F8F4-490A-B5A0-B8F0C8ADA91E" , 
+"uuid": "825554B0-C0F9-412D-B6A0-171E5930CB09" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -626,7 +626,7 @@
 }
 },
 {
-"uuid": "7B2D56AB-5ED5-4C43-B134-DD61B217A1D8" , 
+"uuid": "3396A41C-037C-4A9F-986F-5A6D5C2567A0" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -662,7 +662,7 @@
 }
 },
 {
-"uuid": "35829084-F64B-4DC8-AA4A-3D6CBDA7665C" , 
+"uuid": "DA1E5CBE-6FD3-43D3-91C6-3DA2576F0E72" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -698,7 +698,7 @@
 }
 },
 {
-"uuid": "9C957286-1104-44F1-8B21-FD6CB69EA30E" , 
+"uuid": "40F94FBA-193C-4029-B12E-98DB2EC9278F" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -734,7 +734,7 @@
 }
 },
 {
-"uuid": "74B0F1D4-A5E6-4BF8-9FD4-C3DB510D43B9" , 
+"uuid": "EBDFA183-46FD-4BF8-AA10-BDB9DF26B6FB" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -770,7 +770,7 @@
 }
 },
 {
-"uuid": "3E310926-25B7-42BC-93E5-F78D8C5183A9" , 
+"uuid": "6EB1356B-16DC-4CBF-9DB7-CEC55FBD4CB8" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -806,7 +806,7 @@
 }
 },
 {
-"uuid": "1A674546-5EA4-47EB-8A85-E384F29436DB" , 
+"uuid": "9B8C9C3C-BA39-4341-A10B-A1AE317260D2" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -842,7 +842,7 @@
 }
 },
 {
-"uuid": "44AEC211-30F8-41AF-A650-58A0EA60A455" , 
+"uuid": "170A39BE-EE05-4A5A-8758-397A90A31EB3" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -878,7 +878,7 @@
 }
 },
 {
-"uuid": "AC32F2B3-EDFE-4681-A33D-348ABA8E1B08" , 
+"uuid": "7427A6F7-B207-4CEE-A2C1-1D21FCEC92F4" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -914,7 +914,7 @@
 }
 },
 {
-"uuid": "DAA0FAE6-C83C-4278-8A7B-A51E9A372D19" , 
+"uuid": "F107D193-31F9-4266-BBF2-4AB9304A88D2" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -950,7 +950,7 @@
 }
 },
 {
-"uuid": "CC72A258-2A46-410C-8FC6-0E197EAB0328" , 
+"uuid": "1FE63D0D-00FA-4A01-BA4F-B46A0F3E2F56" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -986,7 +986,7 @@
 }
 },
 {
-"uuid": "43706D69-CBAD-40D3-AE3D-F363BF565735" , 
+"uuid": "A7B0041B-C549-4246-B0F3-F06024FAEDDD" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -1022,7 +1022,7 @@
 }
 },
 {
-"uuid": "2C4BA587-4E40-4CF2-85F3-38E858145268" , 
+"uuid": "7633066F-0717-4630-A020-ADAE4DFB0657" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -1058,7 +1058,7 @@
 }
 },
 {
-"uuid": "DA6F6B08-58CD-4AC8-85AF-B2C418390AA6" , 
+"uuid": "4751779A-F3F9-4D2C-8ABC-26E5CEF80ED6" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -1094,7 +1094,7 @@
 }
 },
 {
-"uuid": "C79F57E3-2664-44E4-B161-F98F07A8B16D" , 
+"uuid": "EDEC422E-53FE-4FB9-B4ED-9D0B2F9DCAF1" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -1130,7 +1130,7 @@
 }
 },
 {
-"uuid": "F4229D58-1312-472B-A099-47B5B4E64D71" , 
+"uuid": "92283041-C85D-42B2-B549-4D0EF596CFA9" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -1166,7 +1166,7 @@
 }
 },
 {
-"uuid": "F60057E0-4265-474A-8A9D-5EFE53E72352" , 
+"uuid": "363F92EB-F7AE-4FAD-B340-6D67F451F59D" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -1202,7 +1202,7 @@
 }
 },
 {
-"uuid": "68D590C8-775E-4F27-9B1D-25573420013B" , 
+"uuid": "2DC1C2EC-FFD7-4EBC-BFC5-882F240DA113" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -1238,7 +1238,7 @@
 }
 },
 {
-"uuid": "11E1736D-DDA3-4364-8D00-0DC87F93C9A9" , 
+"uuid": "4E27FA69-E63D-40AE-9937-8CCA029B2899" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -1274,7 +1274,7 @@
 }
 },
 {
-"uuid": "BF5A12B3-3FB4-4F47-A75F-4699488D6030" , 
+"uuid": "F7DBB5DE-9ADF-4E77-B276-52B023695043" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -1310,7 +1310,7 @@
 }
 },
 {
-"uuid": "0499D084-D63D-4116-BE4B-ADD79E1C9DD7" , 
+"uuid": "822DBA53-4478-4A81-A491-53399567CE56" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -1346,7 +1346,7 @@
 }
 },
 {
-"uuid": "9A272780-41C5-438B-9701-ABA0D5683E72" , 
+"uuid": "5B123532-58E0-4A22-92EC-593AD338BC26" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -1382,7 +1382,7 @@
 }
 },
 {
-"uuid": "C9782BD0-E32E-4F06-9C96-9AE465ABEECA" , 
+"uuid": "B900B6E9-5034-4AF1-A7D1-3F501C5F183C" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -1418,7 +1418,7 @@
 }
 },
 {
-"uuid": "282D519F-E163-4471-8FF3-AA391D98DD63" , 
+"uuid": "E27BB976-CF45-48A9-A5C0-295E7E74085C" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -1454,7 +1454,7 @@
 }
 },
 {
-"uuid": "1FC57745-5E59-4B5D-B5F9-EE2336162D54" , 
+"uuid": "A2595A71-35B5-4C9E-868F-2C11EC947094" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -1490,7 +1490,7 @@
 }
 },
 {
-"uuid": "F1209ED2-C38C-4DE1-8AE8-619EA583B09D" , 
+"uuid": "1CCF331A-4499-43FC-8B6A-AF0091407E23" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -1526,7 +1526,7 @@
 }
 },
 {
-"uuid": "C9E42462-793D-4C3D-A5FC-1B65D4C3AD61" , 
+"uuid": "BBAB28F1-807C-4420-95E7-1925E40C9E3D" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -1562,7 +1562,7 @@
 }
 },
 {
-"uuid": "BFDEDC38-DE65-4F1D-94BD-86AC38B4433B" , 
+"uuid": "5FA11687-1B28-4197-9DC2-290978F121BA" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -1598,7 +1598,7 @@
 }
 },
 {
-"uuid": "ED45247E-0DCE-426F-9812-58B0A1A285F1" , 
+"uuid": "492F64A5-C03D-4CA4-BF5E-40E8133FCC6D" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -1634,7 +1634,7 @@
 }
 },
 {
-"uuid": "622B9CEE-68AE-449B-95EA-FEA0C3EA864A" , 
+"uuid": "D224E326-E3FF-44FE-82C4-2FD9BE2CCA11" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -1670,7 +1670,7 @@
 }
 },
 {
-"uuid": "4DDC2114-BFA1-4907-BCC0-A923F6427E43" , 
+"uuid": "23573B50-786D-4609-A23F-DB038438741F" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -1706,7 +1706,7 @@
 }
 },
 {
-"uuid": "3E3CF218-D24E-4CBB-9DD0-04DB7D88A08A" , 
+"uuid": "1E9472FC-DC6F-4054-9E4E-B25DFC5979A8" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -1742,7 +1742,7 @@
 }
 },
 {
-"uuid": "3946F56F-5402-4508-A2A4-0CFDE64AB582" , 
+"uuid": "FA983FC5-56D8-4C2C-A97F-79EB7182D65D" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -1778,7 +1778,7 @@
 }
 },
 {
-"uuid": "F7313259-3BBB-40DC-8003-2DB86F1D693A" , 
+"uuid": "A48981DA-0EFA-47B3-8605-981769CA1F7F" , 
 "type": "BufferGeometry" , 
 "data": {
 "attributes": {
@@ -1816,7 +1816,7 @@
 ],
 "materials": [
 {
-"uuid": "1430805C-BC4A-4363-B9D1-9D4DAEF4A078" , 
+"uuid": "4934B283-2360-4C7B-AE40-C281393152C9" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -1824,15 +1824,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "9BBF6EC3-588A-4C73-9408-84EA5CA1E623" , 
+"uuid": "6627325C-2914-48E0-99B2-792AEFC54442" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -1840,15 +1840,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "26396540-D8A5-4307-AD7A-2BDCA8C87AEC" , 
+"uuid": "EC32B0CF-D552-4F03-A778-60DF40F6F04B" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -1856,15 +1856,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "65A76B93-81B2-4817-A5E7-FD059884002B" , 
+"uuid": "A3111834-31F8-4CD8-9DA8-E4A7C29DCCC4" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -1872,15 +1872,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "344A9991-D452-4BAD-BD1A-1E53097C8C30" , 
+"uuid": "FDE69DCC-CFA4-47A2-8659-E49A393A48A2" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -1888,15 +1888,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "3A0F365A-E01D-4DA9-9D0F-FE2A06FE9837" , 
+"uuid": "F44BF131-AB8E-4BA1-94C8-88A1483ED0EC" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -1904,15 +1904,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "53463073-50DD-43BB-999C-ACCD4C622120" , 
+"uuid": "B935008E-0E35-4A82-9020-7887E94BE179" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -1920,15 +1920,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "26301E84-705D-420E-934D-F44F08F76AB2" , 
+"uuid": "3F909C34-A235-45BA-862D-333EABEFC033" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -1936,15 +1936,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "91458AAC-7BF1-4ABE-A028-16A43489657B" , 
+"uuid": "BF4E992B-A10D-432E-A88F-30FF3BF75D73" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -1952,15 +1952,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "1165849D-D010-4D9E-BCDA-08FE59009DB4" , 
+"uuid": "FB38E70E-45CA-414C-8B66-71D20C96F5B1" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -1968,15 +1968,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "A062E76C-3FDC-4F57-8476-A71B7FEE9103" , 
+"uuid": "3AE3EB31-2C31-4882-8809-4B33274BEF05" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -1984,15 +1984,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "D253F151-A796-4266-919C-47CE9054556A" , 
+"uuid": "DAFC71B5-33C9-4C15-8630-36B53E47FAE4" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2000,15 +2000,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "B7E45DE5-F9D7-4407-9A7E-D500631FF5E4" , 
+"uuid": "129CE1A7-AED8-4871-BA37-AE6408E51F24" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2016,15 +2016,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "8E154F41-8496-4743-9156-943EE2287B7A" , 
+"uuid": "E07C1CBB-FF49-4EE3-90FE-1E6AF1C2C0EA" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2032,15 +2032,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "A44A93EC-D218-46CB-A932-F9B3662073B4" , 
+"uuid": "21168261-D38C-4B18-93FA-A79BA61EEABB" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2048,15 +2048,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "8BE80949-B0E3-40F5-BFA3-7A2CCEF50BEC" , 
+"uuid": "EB630BFD-2E67-4D0E-A7EA-2BFE0574E7FF" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2064,15 +2064,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "B235269C-A3A0-49BE-8CBE-E0F344B060F6" , 
+"uuid": "E99AA70D-5886-43EE-9C3A-65DAF6D9B0E3" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2080,15 +2080,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "CF859235-BD55-402C-A6B4-4277CAEDDD6C" , 
+"uuid": "33E04045-6C1F-4D60-B3F0-59D4C61E8922" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2096,15 +2096,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "22E93205-BCC9-4803-BF42-87DD8141CA08" , 
+"uuid": "4AAF9809-8C71-49C6-B515-3BDC9B912B87" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2112,15 +2112,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "03CC18DE-6FD3-4AE5-8563-3BDE35460A0C" , 
+"uuid": "55652AF9-8F42-4B8D-8858-06F93C2D7173" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2128,15 +2128,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "66C80774-D722-4C2D-BC00-78F7D75A3888" , 
+"uuid": "F740C134-8514-4C38-9F57-A5577A57B091" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2144,15 +2144,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "031750FB-C956-444C-99AA-2203443472EE" , 
+"uuid": "5F2B24A6-AB8B-460F-ABB5-6F6A2E6DE20A" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2160,15 +2160,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "F45C7607-5440-4E56-ADC0-65D40F9054C7" , 
+"uuid": "8C15E38A-96FE-4ADD-B166-122D1D794D89" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2176,15 +2176,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "8AC6EB3D-B809-47B5-8E40-513044312792" , 
+"uuid": "24AFEB3E-ADCB-4002-A8DD-15C86619D666" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2192,15 +2192,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "1CD80148-B351-4764-8F81-A6C8DB17EA99" , 
+"uuid": "F9E46149-B3D5-4669-9EE6-BA5801FD5289" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2208,15 +2208,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "BE75E9FB-C6C7-40B4-A3C2-66C51CE84DC6" , 
+"uuid": "76A419CB-5334-479D-A673-F805399E6561" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2224,15 +2224,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "9B5899EE-8B25-4670-92A1-DE5946C754B2" , 
+"uuid": "8E111CB5-19AC-4DC3-A499-C8A3021D0FED" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2240,15 +2240,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "00E2A31D-E7B8-4741-AE21-027CF0C95B67" , 
+"uuid": "865902F9-48D9-433D-9A5D-35CF03ABEC59" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2256,15 +2256,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "34A703ED-7DE4-45D1-8D17-EE8B60EFFAC6" , 
+"uuid": "55365121-B086-4C8E-A3F2-E7D0AC705328" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2272,15 +2272,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "377269E0-03D5-4D18-A084-729EEE6D8D7A" , 
+"uuid": "D93C8A91-371C-47C8-AB41-4C788FD56D64" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2288,15 +2288,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "CD49D688-AC4B-4D71-A562-F51FC112EED8" , 
+"uuid": "E39DB59F-C25F-49BC-A97A-EC3ECC0BE24D" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2304,15 +2304,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "CC0697D9-9ECF-4A6C-BB23-7142BC7DC383" , 
+"uuid": "B840758C-26B0-4D4F-9F8A-A36598D39333" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2320,15 +2320,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "190D2C0C-6FF9-4B64-9B9A-0E9E771D600A" , 
+"uuid": "7C99A533-34F9-4118-ADBD-198910839187" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2336,15 +2336,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "FF652FB8-1F02-421B-A877-717B9C647779" , 
+"uuid": "D6406A15-5ABB-428E-82D6-10891282957A" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2352,15 +2352,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "3A41650D-2051-48D1-9B72-DC70695CA827" , 
+"uuid": "C8FFA01C-BAD9-40F2-BB6F-78E8AED81031" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2368,15 +2368,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "E2A50BA5-3599-4E3F-AA65-689AB3438D5B" , 
+"uuid": "EA1007FA-A592-45BC-9E84-CEA0FFD28B0F" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2384,15 +2384,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "02F7B0B8-60D7-4704-BA91-4A075E6274D9" , 
+"uuid": "CF7E5015-8915-4F24-98C7-5B68B6254250" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2400,15 +2400,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "D95C3350-DD73-470A-867D-3037711F853C" , 
+"uuid": "60579F4D-BF09-4177-8E83-8AD6456AAFDE" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2416,15 +2416,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "AC3603CD-63DC-416D-AFC9-B855DAD19244" , 
+"uuid": "120CE9BC-BCFF-4E1E-962C-8016B95A9103" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2432,15 +2432,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "C20A6F04-C5FD-40C1-B3F8-077C48FA410B" , 
+"uuid": "7521FFC6-3D1F-4740-B264-62936C4D7198" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2448,15 +2448,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "A1B291C2-6570-493F-824E-B963050D7E97" , 
+"uuid": "2321BD83-CDC9-48C7-8C11-9C287D00895E" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2464,15 +2464,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "AA509EE0-E950-4628-98FC-605BAB354A6B" , 
+"uuid": "BA1204F5-1503-4230-8A0C-28FF050B6365" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2480,15 +2480,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "8A517057-2AE6-4BF9-A570-2947FB9F809B" , 
+"uuid": "8BD35233-6909-447F-8FD7-F7E3C027DEE3" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2496,15 +2496,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "EB39CB0E-2634-4309-9BE6-180BE390FE9E" , 
+"uuid": "0679136D-92C4-4077-B000-6592C1D2C75B" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2512,15 +2512,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "24787E82-8EF5-429B-82F9-AB6174C6C4B7" , 
+"uuid": "A5AB8955-6316-4623-8479-39FACD90BA2B" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2528,15 +2528,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "A5C6B165-DDC0-4C4C-93E9-D190293377AE" , 
+"uuid": "4840365F-665B-408B-9578-D91777BB0698" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2544,15 +2544,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "DD9CFE7B-2E69-4924-990A-7DE00A15CA9C" , 
+"uuid": "17F2F8FA-F238-4357-B888-9B94E222F742" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2560,15 +2560,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "47503F30-8D95-4E58-BD4D-F4BF90CB41BF" , 
+"uuid": "8C9AED00-20A1-431D-80E5-D577E8BC1480" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2576,15 +2576,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "4F4E5DC7-5E49-4733-92A4-E927458F5C4D" , 
+"uuid": "AB0F9D91-FCD7-497F-B97C-AB71A84F5AC4" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2592,15 +2592,15 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 },
 {
-"uuid": "9DD989A8-90E0-4EC0-BCE4-36354D3989CD" , 
+"uuid": "A2FE32EA-6393-4CA0-94CA-3574E20DFD42" , 
 "type": "MeshPhysicalMaterial" , 
 "transparent": false , 
 "opacity": 1 , 
@@ -2608,16 +2608,16 @@
 "emissiveIntensity": 0 , 
 "clearcoat": 0 , 
 "clearcoatRoughness": 0.9 , 
-"metalness": 0.5 , 
-"roughness": 0.1 , 
+"metalness": 0 , 
+"roughness": 1 , 
 "sheen": 0 , 
 "sheenRoughness": 0.1 , 
-"reflectivity": 0.5 , 
-"color": 13948116 
+"reflectivity": 0 , 
+"color": 5016734 
 }
 ],
 "object": {
-	"uuid": "B86039E3-F225-4DD6-8115-2CDCED3AD9DD" , 
+	"uuid": "8F332D13-1F82-4363-9E0F-401FC23311A7" , 
 "type": "Scene" , 
 "name": "Sce_Scene" , 
 "layers": 1 , 
@@ -2625,9 +2625,9 @@
 "background": "#FFFFFF" , 
 "children": [
 {
-"uuid": "C648C2CF-BBC3-4E2E-9420-A5F681A97839" , 
+"uuid": "6E67F8B2-725F-4680-87CC-81C13A02C566" , 
 "type": "PerspectiveCamera" , 
-"name": "Per_c648c2cfbbc34e2e9420a5f681a97839" , 
+"name": "Per_6e67f8b2725f468087cc81c13a02c566" , 
 "layers": 1 , 
 "matrix": [-0.68622, 0, 0.72739, 0, -0.15601, 0.97673, -0.14718, 0, 0.71047, 0.21448, 0.67025, 0, 212, 64, 200, 1] , 
 "fov": 50 , 
@@ -2640,479 +2640,474 @@
 "filmOffset": 0 
 },
 {
-"uuid": "4DC8B6B2-7EA0-4A1D-9611-B4805183976F" , 
-"type": "PerspectiveCamera" , 
-"name": "Per_4dc8b6b27ea04a1d9611b4805183976f" , 
-"layers": 1 , 
-"matrix": [-0.70711, 0, 0.70711, 0, -0.40825, 0.8165, -0.40825, 0, 0.57735, 0.57735, 0.57735, 0, 100, 100, 100, 1] , 
-"fov": 50 , 
-"zoom": 1 , 
-"near": 0.1 , 
-"far": 10000 , 
-"focus": 10 , 
-"aspect": 1.67874015748031 , 
-"filmGauge": 35 , 
-"filmOffset": 0 
-},
-{
-"uuid": "AE44148B-5C83-4BC2-9DA8-3BD8138DC783" , 
+"uuid": "797D38F9-DB31-49B0-96D3-167CF2CAE8F2" , 
 "type": "AmbientLight" , 
-"name": "Amb_ae44148b5c834bc29da83bd8138dc783" , 
+"name": "Amb_797d38f9db3149b096d3167cf2cae8f2" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
 "intensity": 1 , 
-"color": "#D4CFC5" 
+"color": "#FFFFFF" 
+},
+{
+"uuid": "0CD7019B-66A4-4B3C-B033-D0080359342B" , 
+"type": "HemisphereLight" , 
+"name": "Hem_0cd7019b66a44b3cb033d0080359342b" , 
+"layers": 1 , 
+"matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1] , 
+"groundColor": "#808080" , 
+"intensity": 1 , 
+"color": "#FFFFFF" 
 },
 
 {
-"uuid": "B0A7F275-E2D3-4EA1-98B3-6AE0269AE600" , 
+"uuid": "5D7F4DA8-0D5D-4FE2-8A6F-FC0A48188B0E" , 
 "type": "Mesh" , 
-"name": "Mes_b0a7f275e2d34ea198b36ae0269ae600" , 
+"name": "Mes_5d7f4da80d5d4fe28a6ffc0a48188b0e" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "F834E720-CA12-448D-8D2C-A9A613B3BB1F" , 
-"material": "1430805C-BC4A-4363-B9D1-9D4DAEF4A078" 
+"geometry": "C76E2899-A51A-4D7D-B906-D19907E1917D" , 
+"material": "4934B283-2360-4C7B-AE40-C281393152C9" 
 },
 {
-"uuid": "806D08DF-3874-4DB6-AFBD-E6EFC9D35A02" , 
+"uuid": "09745456-98CE-4D2E-B294-853EE56CE587" , 
 "type": "Mesh" , 
-"name": "Mes_806d08df38744db6afbde6efc9d35a02" , 
+"name": "Mes_0974545698ce4d2eb294853ee56ce587" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "3F77FB0F-E82D-4E79-89D2-793ADA344AF9" , 
-"material": "9BBF6EC3-588A-4C73-9408-84EA5CA1E623" 
+"geometry": "853B6AEE-DE96-435D-9D05-D856A3783690" , 
+"material": "6627325C-2914-48E0-99B2-792AEFC54442" 
 },
 {
-"uuid": "60E94642-164C-4308-AF93-412EE230FE68" , 
+"uuid": "A08668FE-F81C-428F-92EB-B11993A075B4" , 
 "type": "Mesh" , 
-"name": "Mes_60e94642164c4308af93412ee230fe68" , 
+"name": "Mes_a08668fef81c428f92ebb11993a075b4" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "0730277E-6542-4AD9-B798-94E771A5A2E9" , 
-"material": "26396540-D8A5-4307-AD7A-2BDCA8C87AEC" 
+"geometry": "5339BE11-CB86-4F88-8FC7-6A79F25960B2" , 
+"material": "EC32B0CF-D552-4F03-A778-60DF40F6F04B" 
 },
 {
-"uuid": "06B09F92-D91A-4BBA-AD61-DBFFA1CFB215" , 
+"uuid": "8CF099AF-7DE7-4DC9-95DE-77EF3BADBC68" , 
 "type": "Mesh" , 
-"name": "Mes_06b09f92d91a4bbaad61dbffa1cfb215" , 
+"name": "Mes_8cf099af7de74dc995de77ef3badbc68" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "6EF5D01E-12BE-4FE8-AF0B-291141A7F61A" , 
-"material": "65A76B93-81B2-4817-A5E7-FD059884002B" 
+"geometry": "F593A6ED-A93C-4781-826C-5691581D3A69" , 
+"material": "A3111834-31F8-4CD8-9DA8-E4A7C29DCCC4" 
 },
 {
-"uuid": "4543B41F-0086-4F8C-B1A8-3AA7BB02696E" , 
+"uuid": "962E049C-0D26-4BEA-BA4A-076A7A06FBE9" , 
 "type": "Mesh" , 
-"name": "Mes_4543b41f00864f8cb1a83aa7bb02696e" , 
+"name": "Mes_962e049c0d264beaba4a076a7a06fbe9" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "7BF2E464-CA61-4160-90B5-FB0CC4AF9154" , 
-"material": "344A9991-D452-4BAD-BD1A-1E53097C8C30" 
+"geometry": "F2470904-ED48-415E-90AC-FC07693E761C" , 
+"material": "FDE69DCC-CFA4-47A2-8659-E49A393A48A2" 
 },
 {
-"uuid": "71B2FC78-83AF-49FA-BFEA-C1298B95A79C" , 
+"uuid": "1FA5C0AD-5C8F-47FA-B527-B2F37AC3E632" , 
 "type": "Mesh" , 
-"name": "Mes_71b2fc7883af49fabfeac1298b95a79c" , 
+"name": "Mes_1fa5c0ad5c8f47fab527b2f37ac3e632" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "D1E088D3-7E9B-4E50-806F-14DD8FD4C846" , 
-"material": "3A0F365A-E01D-4DA9-9D0F-FE2A06FE9837" 
+"geometry": "A2BEC903-814C-4F87-AEF8-DF8C785E823F" , 
+"material": "F44BF131-AB8E-4BA1-94C8-88A1483ED0EC" 
 },
 {
-"uuid": "648B9384-8630-4E04-99B2-191750861D86" , 
+"uuid": "410B660B-4773-450F-BF43-AD8A51112F9D" , 
 "type": "Mesh" , 
-"name": "Mes_648b938486304e0499b2191750861d86" , 
+"name": "Mes_410b660b4773450fbf43ad8a51112f9d" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "A923FEDE-6AEA-4CC9-9AD5-989CE67E6898" , 
-"material": "53463073-50DD-43BB-999C-ACCD4C622120" 
+"geometry": "7789B3A7-264F-44E8-BDE5-1596D64D2710" , 
+"material": "B935008E-0E35-4A82-9020-7887E94BE179" 
 },
 {
-"uuid": "D3E50480-F5E5-4E04-8133-14A20BCEF050" , 
+"uuid": "B119BAFB-2D5D-436F-9353-6A6168A5CC0A" , 
 "type": "Mesh" , 
-"name": "Mes_d3e50480f5e54e04813314a20bcef050" , 
+"name": "Mes_b119bafb2d5d436f93536a6168a5cc0a" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "FC4DF01F-FFEF-435B-A21C-420989E3188E" , 
-"material": "26301E84-705D-420E-934D-F44F08F76AB2" 
+"geometry": "77CD06DE-C6B9-4C04-B1D0-2D60988FF8D5" , 
+"material": "3F909C34-A235-45BA-862D-333EABEFC033" 
 },
 {
-"uuid": "E3345DBA-C1A4-4D82-B434-DDB41FE2F8A9" , 
+"uuid": "EEA70E6D-6A3D-4F51-8F15-53596EBF4B89" , 
 "type": "Mesh" , 
-"name": "Mes_e3345dbac1a44d82b434ddb41fe2f8a9" , 
+"name": "Mes_eea70e6d6a3d4f518f1553596ebf4b89" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "D9CC47F7-2A12-470F-BBBC-58A32AECECDC" , 
-"material": "91458AAC-7BF1-4ABE-A028-16A43489657B" 
+"geometry": "CEB41FA1-EDB8-42CA-B53C-B739A1E6921F" , 
+"material": "BF4E992B-A10D-432E-A88F-30FF3BF75D73" 
 },
 {
-"uuid": "9E7EFE8B-EEF7-4E6E-B1CC-B90B9E97EBEF" , 
+"uuid": "C5F96415-69C4-43E1-87FD-C7822EBB4245" , 
 "type": "Mesh" , 
-"name": "Mes_9e7efe8beef74e6eb1ccb90b9e97ebef" , 
+"name": "Mes_c5f9641569c443e187fdc7822ebb4245" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "13FD2D5C-A4D7-45FE-B88C-5638BCDD9390" , 
-"material": "1165849D-D010-4D9E-BCDA-08FE59009DB4" 
+"geometry": "ACC1766E-8D25-4075-9743-253E7EEAF943" , 
+"material": "FB38E70E-45CA-414C-8B66-71D20C96F5B1" 
 },
 {
-"uuid": "11BE0F0C-3499-4198-B290-BBFFF8BFB7D2" , 
+"uuid": "2867845C-98BA-424B-9E23-3D04A99F4D7B" , 
 "type": "Mesh" , 
-"name": "Mes_11be0f0c34994198b290bbfff8bfb7d2" , 
+"name": "Mes_2867845c98ba424b9e233d04a99f4d7b" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "736B02E7-664D-4296-9392-3F32639819CB" , 
-"material": "A062E76C-3FDC-4F57-8476-A71B7FEE9103" 
+"geometry": "3C45E5C2-35AC-4B2C-97AA-771A8A4071C7" , 
+"material": "3AE3EB31-2C31-4882-8809-4B33274BEF05" 
 },
 {
-"uuid": "B607E21B-D6DD-498C-9A7A-015E8942DA8C" , 
+"uuid": "1EAF972D-199B-418F-A423-7D5BE6E35B8B" , 
 "type": "Mesh" , 
-"name": "Mes_b607e21bd6dd498c9a7a015e8942da8c" , 
+"name": "Mes_1eaf972d199b418fa4237d5be6e35b8b" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "718EFB22-277D-4BAE-89F9-C656722BC0AA" , 
-"material": "D253F151-A796-4266-919C-47CE9054556A" 
+"geometry": "B1C95123-CC07-4A02-B30B-C863550D013A" , 
+"material": "DAFC71B5-33C9-4C15-8630-36B53E47FAE4" 
 },
 {
-"uuid": "70051378-3E27-49F6-807A-C48F49C84720" , 
+"uuid": "6D6A0EF0-3FE5-4BAB-8825-1F5189A3B9C2" , 
 "type": "Mesh" , 
-"name": "Mes_700513783e2749f6807ac48f49c84720" , 
+"name": "Mes_6d6a0ef03fe54bab88251f5189a3b9c2" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "F3933B6B-731D-44BD-8C6E-853BAF7FFD9D" , 
-"material": "B7E45DE5-F9D7-4407-9A7E-D500631FF5E4" 
+"geometry": "50830B97-1F78-4BD2-812B-48EF020C4EA6" , 
+"material": "129CE1A7-AED8-4871-BA37-AE6408E51F24" 
 },
 {
-"uuid": "216BB05F-B7AB-4A33-A8A6-9C0CFAAC4DDA" , 
+"uuid": "8EEDA8CE-3028-489E-8BA7-308375AE30FD" , 
 "type": "Mesh" , 
-"name": "Mes_216bb05fb7ab4a33a8a69c0cfaac4dda" , 
+"name": "Mes_8eeda8ce3028489e8ba7308375ae30fd" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "98000C97-9D72-405A-8605-832BF487D246" , 
-"material": "8E154F41-8496-4743-9156-943EE2287B7A" 
+"geometry": "3924EF91-38B5-40DE-A519-BAADAAFB9EE3" , 
+"material": "E07C1CBB-FF49-4EE3-90FE-1E6AF1C2C0EA" 
 },
 {
-"uuid": "2B2C9128-4227-4BAD-A6D5-B44300D1C686" , 
+"uuid": "653748B2-C3DB-4C7D-89DD-1050357B2B41" , 
 "type": "Mesh" , 
-"name": "Mes_2b2c912842274bada6d5b44300d1c686" , 
+"name": "Mes_653748b2c3db4c7d89dd1050357b2b41" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "296CA150-0C18-4868-A0BB-6AEC8BD00763" , 
-"material": "A44A93EC-D218-46CB-A932-F9B3662073B4" 
+"geometry": "9BF30EC8-9845-4198-AD1A-39326559CADF" , 
+"material": "21168261-D38C-4B18-93FA-A79BA61EEABB" 
 },
 {
-"uuid": "A1D2921B-582A-4EC1-A147-7EDCE5A156B0" , 
+"uuid": "550714F2-8F6E-4D8D-85B7-089AA61B4E4D" , 
 "type": "Mesh" , 
-"name": "Mes_a1d2921b582a4ec1a1477edce5a156b0" , 
+"name": "Mes_550714f28f6e4d8d85b7089aa61b4e4d" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "50685F07-038D-457E-97A4-DFA28D162AEC" , 
-"material": "8BE80949-B0E3-40F5-BFA3-7A2CCEF50BEC" 
+"geometry": "D67BD9F5-1CFE-48CA-AB41-C5D27112BD8B" , 
+"material": "EB630BFD-2E67-4D0E-A7EA-2BFE0574E7FF" 
 },
 {
-"uuid": "063CEB74-E5B5-4E7D-BB45-267BF2956FF0" , 
+"uuid": "4901D61F-5F60-4C5B-A8E2-F032D29C9430" , 
 "type": "Mesh" , 
-"name": "Mes_063ceb74e5b54e7dbb45267bf2956ff0" , 
+"name": "Mes_4901d61f5f604c5ba8e2f032d29c9430" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "5BEE3DF0-F8F4-490A-B5A0-B8F0C8ADA91E" , 
-"material": "B235269C-A3A0-49BE-8CBE-E0F344B060F6" 
+"geometry": "825554B0-C0F9-412D-B6A0-171E5930CB09" , 
+"material": "E99AA70D-5886-43EE-9C3A-65DAF6D9B0E3" 
 },
 {
-"uuid": "BBD4A6FA-4B46-4A75-ACA6-1BFEC0BFFBC5" , 
+"uuid": "E4CC9211-375B-424D-9FD2-223EEC673419" , 
 "type": "Mesh" , 
-"name": "Mes_bbd4a6fa4b464a75aca61bfec0bffbc5" , 
+"name": "Mes_e4cc9211375b424d9fd2223eec673419" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "7B2D56AB-5ED5-4C43-B134-DD61B217A1D8" , 
-"material": "CF859235-BD55-402C-A6B4-4277CAEDDD6C" 
+"geometry": "3396A41C-037C-4A9F-986F-5A6D5C2567A0" , 
+"material": "33E04045-6C1F-4D60-B3F0-59D4C61E8922" 
 },
 {
-"uuid": "02626841-5992-4093-AE3B-B21A10A7D6EE" , 
+"uuid": "6B796017-BD59-44A6-AE64-8FAE28C14BCD" , 
 "type": "Mesh" , 
-"name": "Mes_0262684159924093ae3bb21a10a7d6ee" , 
+"name": "Mes_6b796017bd5944a6ae648fae28c14bcd" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "35829084-F64B-4DC8-AA4A-3D6CBDA7665C" , 
-"material": "22E93205-BCC9-4803-BF42-87DD8141CA08" 
+"geometry": "DA1E5CBE-6FD3-43D3-91C6-3DA2576F0E72" , 
+"material": "4AAF9809-8C71-49C6-B515-3BDC9B912B87" 
 },
 {
-"uuid": "44A96622-D116-4B26-AC9B-0CDDE050E179" , 
+"uuid": "4EA702BF-CF53-4C2E-A01A-43437890C721" , 
 "type": "Mesh" , 
-"name": "Mes_44a96622d1164b26ac9b0cdde050e179" , 
+"name": "Mes_4ea702bfcf534c2ea01a43437890c721" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "9C957286-1104-44F1-8B21-FD6CB69EA30E" , 
-"material": "03CC18DE-6FD3-4AE5-8563-3BDE35460A0C" 
+"geometry": "40F94FBA-193C-4029-B12E-98DB2EC9278F" , 
+"material": "55652AF9-8F42-4B8D-8858-06F93C2D7173" 
 },
 {
-"uuid": "9BD31DE8-BF5B-4A2A-A332-FA211E8BDF76" , 
+"uuid": "C87AA1E0-EC30-4C45-BCDB-C36DBE7A2DEE" , 
 "type": "Mesh" , 
-"name": "Mes_9bd31de8bf5b4a2aa332fa211e8bdf76" , 
+"name": "Mes_c87aa1e0ec304c45bcdbc36dbe7a2dee" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "74B0F1D4-A5E6-4BF8-9FD4-C3DB510D43B9" , 
-"material": "66C80774-D722-4C2D-BC00-78F7D75A3888" 
+"geometry": "EBDFA183-46FD-4BF8-AA10-BDB9DF26B6FB" , 
+"material": "F740C134-8514-4C38-9F57-A5577A57B091" 
 },
 {
-"uuid": "9EE8C76E-88B6-4406-82E4-B86A0D69D6F9" , 
+"uuid": "6C5B2B3E-CE8C-4C82-9B19-460440703866" , 
 "type": "Mesh" , 
-"name": "Mes_9ee8c76e88b6440682e4b86a0d69d6f9" , 
+"name": "Mes_6c5b2b3ece8c4c829b19460440703866" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "3E310926-25B7-42BC-93E5-F78D8C5183A9" , 
-"material": "031750FB-C956-444C-99AA-2203443472EE" 
+"geometry": "6EB1356B-16DC-4CBF-9DB7-CEC55FBD4CB8" , 
+"material": "5F2B24A6-AB8B-460F-ABB5-6F6A2E6DE20A" 
 },
 {
-"uuid": "9AEC0831-C96D-4036-B3E7-0561C27EEB33" , 
+"uuid": "46760A77-C02D-48DD-8A6F-6D8B115B9292" , 
 "type": "Mesh" , 
-"name": "Mes_9aec0831c96d4036b3e70561c27eeb33" , 
+"name": "Mes_46760a77c02d48dd8a6f6d8b115b9292" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "1A674546-5EA4-47EB-8A85-E384F29436DB" , 
-"material": "F45C7607-5440-4E56-ADC0-65D40F9054C7" 
+"geometry": "9B8C9C3C-BA39-4341-A10B-A1AE317260D2" , 
+"material": "8C15E38A-96FE-4ADD-B166-122D1D794D89" 
 },
 {
-"uuid": "71B371A6-F905-48D6-87BB-6FB6703D45F6" , 
+"uuid": "7ED3A4A1-E21F-4BA5-898E-3787D4463738" , 
 "type": "Mesh" , 
-"name": "Mes_71b371a6f90548d687bb6fb6703d45f6" , 
+"name": "Mes_7ed3a4a1e21f4ba5898e3787d4463738" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "44AEC211-30F8-41AF-A650-58A0EA60A455" , 
-"material": "8AC6EB3D-B809-47B5-8E40-513044312792" 
+"geometry": "170A39BE-EE05-4A5A-8758-397A90A31EB3" , 
+"material": "24AFEB3E-ADCB-4002-A8DD-15C86619D666" 
 },
 {
-"uuid": "15A1C3FE-8D28-4D64-B001-04D9B379BD82" , 
+"uuid": "1FD94129-F152-48EF-9117-46C83E0E8253" , 
 "type": "Mesh" , 
-"name": "Mes_15a1c3fe8d284d64b00104d9b379bd82" , 
+"name": "Mes_1fd94129f15248ef911746c83e0e8253" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "AC32F2B3-EDFE-4681-A33D-348ABA8E1B08" , 
-"material": "1CD80148-B351-4764-8F81-A6C8DB17EA99" 
+"geometry": "7427A6F7-B207-4CEE-A2C1-1D21FCEC92F4" , 
+"material": "F9E46149-B3D5-4669-9EE6-BA5801FD5289" 
 },
 {
-"uuid": "F2795775-42AD-474A-A40D-C5EEEA5E878B" , 
+"uuid": "91E8D9F1-BEFB-4F6E-AF7F-49ADCC77D535" , 
 "type": "Mesh" , 
-"name": "Mes_f279577542ad474aa40dc5eeea5e878b" , 
+"name": "Mes_91e8d9f1befb4f6eaf7f49adcc77d535" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "DAA0FAE6-C83C-4278-8A7B-A51E9A372D19" , 
-"material": "BE75E9FB-C6C7-40B4-A3C2-66C51CE84DC6" 
+"geometry": "F107D193-31F9-4266-BBF2-4AB9304A88D2" , 
+"material": "76A419CB-5334-479D-A673-F805399E6561" 
 },
 {
-"uuid": "12610763-E8EC-4CB3-9794-0472621D317E" , 
+"uuid": "31FD616E-7772-43FB-A88B-9648C81EAD2E" , 
 "type": "Mesh" , 
-"name": "Mes_12610763e8ec4cb397940472621d317e" , 
+"name": "Mes_31fd616e777243fba88b9648c81ead2e" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "CC72A258-2A46-410C-8FC6-0E197EAB0328" , 
-"material": "9B5899EE-8B25-4670-92A1-DE5946C754B2" 
+"geometry": "1FE63D0D-00FA-4A01-BA4F-B46A0F3E2F56" , 
+"material": "8E111CB5-19AC-4DC3-A499-C8A3021D0FED" 
 },
 {
-"uuid": "B824CC70-7EAA-4FB4-A2C3-71F398A0F2FC" , 
+"uuid": "C239483B-62D9-4547-8DC0-612D5A7B5D09" , 
 "type": "Mesh" , 
-"name": "Mes_b824cc707eaa4fb4a2c371f398a0f2fc" , 
+"name": "Mes_c239483b62d945478dc0612d5a7b5d09" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "43706D69-CBAD-40D3-AE3D-F363BF565735" , 
-"material": "00E2A31D-E7B8-4741-AE21-027CF0C95B67" 
+"geometry": "A7B0041B-C549-4246-B0F3-F06024FAEDDD" , 
+"material": "865902F9-48D9-433D-9A5D-35CF03ABEC59" 
 },
 {
-"uuid": "24335DB0-77FB-4974-8DBC-8992F57535DB" , 
+"uuid": "73C1ACEB-12BF-4C3A-A923-7FDEBF65F217" , 
 "type": "Mesh" , 
-"name": "Mes_24335db077fb49748dbc8992f57535db" , 
+"name": "Mes_73c1aceb12bf4c3aa9237fdebf65f217" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "2C4BA587-4E40-4CF2-85F3-38E858145268" , 
-"material": "34A703ED-7DE4-45D1-8D17-EE8B60EFFAC6" 
+"geometry": "7633066F-0717-4630-A020-ADAE4DFB0657" , 
+"material": "55365121-B086-4C8E-A3F2-E7D0AC705328" 
 },
 {
-"uuid": "AB4DEE82-F31E-42DB-B8E2-9D83C051694A" , 
+"uuid": "5A50914D-AA7C-4D14-9D27-8E729BFC6E06" , 
 "type": "Mesh" , 
-"name": "Mes_ab4dee82f31e42dbb8e29d83c051694a" , 
+"name": "Mes_5a50914daa7c4d149d278e729bfc6e06" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "DA6F6B08-58CD-4AC8-85AF-B2C418390AA6" , 
-"material": "377269E0-03D5-4D18-A084-729EEE6D8D7A" 
+"geometry": "4751779A-F3F9-4D2C-8ABC-26E5CEF80ED6" , 
+"material": "D93C8A91-371C-47C8-AB41-4C788FD56D64" 
 },
 {
-"uuid": "00DDFB88-861C-4290-9099-A6466D89DD2E" , 
+"uuid": "217204B4-BDF7-46F8-A1EB-9AA1A315D87F" , 
 "type": "Mesh" , 
-"name": "Mes_00ddfb88861c42909099a6466d89dd2e" , 
+"name": "Mes_217204b4bdf746f8a1eb9aa1a315d87f" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "C79F57E3-2664-44E4-B161-F98F07A8B16D" , 
-"material": "CD49D688-AC4B-4D71-A562-F51FC112EED8" 
+"geometry": "EDEC422E-53FE-4FB9-B4ED-9D0B2F9DCAF1" , 
+"material": "E39DB59F-C25F-49BC-A97A-EC3ECC0BE24D" 
 },
 {
-"uuid": "A2306009-EDDB-432E-90D2-39E5EE327B05" , 
+"uuid": "BDF6C910-FDE0-4789-A654-E2DF99820D76" , 
 "type": "Mesh" , 
-"name": "Mes_a2306009eddb432e90d239e5ee327b05" , 
+"name": "Mes_bdf6c910fde04789a654e2df99820d76" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "F4229D58-1312-472B-A099-47B5B4E64D71" , 
-"material": "CC0697D9-9ECF-4A6C-BB23-7142BC7DC383" 
+"geometry": "92283041-C85D-42B2-B549-4D0EF596CFA9" , 
+"material": "B840758C-26B0-4D4F-9F8A-A36598D39333" 
 },
 {
-"uuid": "6AAA6A58-2FA0-4F76-9E60-071467920E64" , 
+"uuid": "505A7FFC-76CF-4E27-9DA1-E855C9FA621C" , 
 "type": "Mesh" , 
-"name": "Mes_6aaa6a582fa04f769e60071467920e64" , 
+"name": "Mes_505a7ffc76cf4e279da1e855c9fa621c" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "F60057E0-4265-474A-8A9D-5EFE53E72352" , 
-"material": "190D2C0C-6FF9-4B64-9B9A-0E9E771D600A" 
+"geometry": "363F92EB-F7AE-4FAD-B340-6D67F451F59D" , 
+"material": "7C99A533-34F9-4118-ADBD-198910839187" 
 },
 {
-"uuid": "647D554C-434C-4102-86F1-4E9975AC9A86" , 
+"uuid": "17F5C6B8-F7F1-4F6B-8B61-F2C02D615577" , 
 "type": "Mesh" , 
-"name": "Mes_647d554c434c410286f14e9975ac9a86" , 
+"name": "Mes_17f5c6b8f7f14f6b8b61f2c02d615577" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "68D590C8-775E-4F27-9B1D-25573420013B" , 
-"material": "FF652FB8-1F02-421B-A877-717B9C647779" 
+"geometry": "2DC1C2EC-FFD7-4EBC-BFC5-882F240DA113" , 
+"material": "D6406A15-5ABB-428E-82D6-10891282957A" 
 },
 {
-"uuid": "8809E3D4-7112-42C1-B1BE-9F9B9A267B6B" , 
+"uuid": "4D07CC06-13D4-41C1-A5E9-19F4912C66F2" , 
 "type": "Mesh" , 
-"name": "Mes_8809e3d4711242c1b1be9f9b9a267b6b" , 
+"name": "Mes_4d07cc0613d441c1a5e919f4912c66f2" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "11E1736D-DDA3-4364-8D00-0DC87F93C9A9" , 
-"material": "3A41650D-2051-48D1-9B72-DC70695CA827" 
+"geometry": "4E27FA69-E63D-40AE-9937-8CCA029B2899" , 
+"material": "C8FFA01C-BAD9-40F2-BB6F-78E8AED81031" 
 },
 {
-"uuid": "959B5743-5D59-4346-8501-19D69D5748D1" , 
+"uuid": "DB056711-4BFE-46EE-9DCE-84B355940C35" , 
 "type": "Mesh" , 
-"name": "Mes_959b57435d594346850119d69d5748d1" , 
+"name": "Mes_db0567114bfe46ee9dce84b355940c35" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "BF5A12B3-3FB4-4F47-A75F-4699488D6030" , 
-"material": "E2A50BA5-3599-4E3F-AA65-689AB3438D5B" 
+"geometry": "F7DBB5DE-9ADF-4E77-B276-52B023695043" , 
+"material": "EA1007FA-A592-45BC-9E84-CEA0FFD28B0F" 
 },
 {
-"uuid": "CAF5560A-7B9E-4828-9C40-1C7305D8F7F5" , 
+"uuid": "C62065D9-4119-4E6C-94FD-65EA2243D683" , 
 "type": "Mesh" , 
-"name": "Mes_caf5560a7b9e48289c401c7305d8f7f5" , 
+"name": "Mes_c62065d941194e6c94fd65ea2243d683" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "0499D084-D63D-4116-BE4B-ADD79E1C9DD7" , 
-"material": "02F7B0B8-60D7-4704-BA91-4A075E6274D9" 
+"geometry": "822DBA53-4478-4A81-A491-53399567CE56" , 
+"material": "CF7E5015-8915-4F24-98C7-5B68B6254250" 
 },
 {
-"uuid": "E7141024-D2DF-4DD9-8E0D-9F6FAE3FB938" , 
+"uuid": "9A36799B-E2FE-499E-B497-5FE86BDF363F" , 
 "type": "Mesh" , 
-"name": "Mes_e7141024d2df4dd98e0d9f6fae3fb938" , 
+"name": "Mes_9a36799be2fe499eb4975fe86bdf363f" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "9A272780-41C5-438B-9701-ABA0D5683E72" , 
-"material": "D95C3350-DD73-470A-867D-3037711F853C" 
+"geometry": "5B123532-58E0-4A22-92EC-593AD338BC26" , 
+"material": "60579F4D-BF09-4177-8E83-8AD6456AAFDE" 
 },
 {
-"uuid": "8E5EB85D-8A4F-4301-96B6-29CE682CBCE3" , 
+"uuid": "34D423E0-1496-4BD5-9050-15D898DE3E51" , 
 "type": "Mesh" , 
-"name": "Mes_8e5eb85d8a4f430196b629ce682cbce3" , 
+"name": "Mes_34d423e014964bd5905015d898de3e51" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "C9782BD0-E32E-4F06-9C96-9AE465ABEECA" , 
-"material": "AC3603CD-63DC-416D-AFC9-B855DAD19244" 
+"geometry": "B900B6E9-5034-4AF1-A7D1-3F501C5F183C" , 
+"material": "120CE9BC-BCFF-4E1E-962C-8016B95A9103" 
 },
 {
-"uuid": "DA6661F2-4C17-4C74-AA4B-91797782D670" , 
+"uuid": "918AEBC0-7E94-4CCF-A559-906EDB521769" , 
 "type": "Mesh" , 
-"name": "Mes_da6661f24c174c74aa4b91797782d670" , 
+"name": "Mes_918aebc07e944ccfa559906edb521769" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "282D519F-E163-4471-8FF3-AA391D98DD63" , 
-"material": "C20A6F04-C5FD-40C1-B3F8-077C48FA410B" 
+"geometry": "E27BB976-CF45-48A9-A5C0-295E7E74085C" , 
+"material": "7521FFC6-3D1F-4740-B264-62936C4D7198" 
 },
 {
-"uuid": "44A1D5D3-154F-4CAC-9331-869155E4AF79" , 
+"uuid": "897B2433-0DC9-4464-86C2-C667CE5CCE33" , 
 "type": "Mesh" , 
-"name": "Mes_44a1d5d3154f4cac9331869155e4af79" , 
+"name": "Mes_897b24330dc9446486c2c667ce5cce33" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "1FC57745-5E59-4B5D-B5F9-EE2336162D54" , 
-"material": "A1B291C2-6570-493F-824E-B963050D7E97" 
+"geometry": "A2595A71-35B5-4C9E-868F-2C11EC947094" , 
+"material": "2321BD83-CDC9-48C7-8C11-9C287D00895E" 
 },
 {
-"uuid": "D323F903-9D02-45B6-8B8C-2C51F24505DB" , 
+"uuid": "B1FC0AF3-6356-4068-A141-A652C302B81F" , 
 "type": "Mesh" , 
-"name": "Mes_d323f9039d0245b68b8c2c51f24505db" , 
+"name": "Mes_b1fc0af363564068a141a652c302b81f" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "F1209ED2-C38C-4DE1-8AE8-619EA583B09D" , 
-"material": "AA509EE0-E950-4628-98FC-605BAB354A6B" 
+"geometry": "1CCF331A-4499-43FC-8B6A-AF0091407E23" , 
+"material": "BA1204F5-1503-4230-8A0C-28FF050B6365" 
 },
 {
-"uuid": "AD163FB9-EC1A-4840-9361-AE9C4E09FA38" , 
+"uuid": "B2E26EE3-1325-4B11-89DE-3303F18BD6A4" , 
 "type": "Mesh" , 
-"name": "Mes_ad163fb9ec1a48409361ae9c4e09fa38" , 
+"name": "Mes_b2e26ee313254b1189de3303f18bd6a4" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "C9E42462-793D-4C3D-A5FC-1B65D4C3AD61" , 
-"material": "8A517057-2AE6-4BF9-A570-2947FB9F809B" 
+"geometry": "BBAB28F1-807C-4420-95E7-1925E40C9E3D" , 
+"material": "8BD35233-6909-447F-8FD7-F7E3C027DEE3" 
 },
 {
-"uuid": "B06FDBD7-544F-4D9C-B6A8-C5A8BFCBFAD2" , 
+"uuid": "BEDA6503-63B1-4AAD-857B-9171211E1CF2" , 
 "type": "Mesh" , 
-"name": "Mes_b06fdbd7544f4d9cb6a8c5a8bfcbfad2" , 
+"name": "Mes_beda650363b14aad857b9171211e1cf2" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "BFDEDC38-DE65-4F1D-94BD-86AC38B4433B" , 
-"material": "EB39CB0E-2634-4309-9BE6-180BE390FE9E" 
+"geometry": "5FA11687-1B28-4197-9DC2-290978F121BA" , 
+"material": "0679136D-92C4-4077-B000-6592C1D2C75B" 
 },
 {
-"uuid": "BAD206AC-36E7-465B-ADC1-C910C24B8F36" , 
+"uuid": "66E871C8-D463-42D1-8022-8F4E8403E4EA" , 
 "type": "Mesh" , 
-"name": "Mes_bad206ac36e7465badc1c910c24b8f36" , 
+"name": "Mes_66e871c8d46342d180228f4e8403e4ea" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "ED45247E-0DCE-426F-9812-58B0A1A285F1" , 
-"material": "24787E82-8EF5-429B-82F9-AB6174C6C4B7" 
+"geometry": "492F64A5-C03D-4CA4-BF5E-40E8133FCC6D" , 
+"material": "A5AB8955-6316-4623-8479-39FACD90BA2B" 
 },
 {
-"uuid": "F64E8864-55F4-495D-9AA2-F8913B8666C3" , 
+"uuid": "1EF21797-94D1-4B63-B359-73D3BBF7D543" , 
 "type": "Mesh" , 
-"name": "Mes_f64e886455f4495d9aa2f8913b8666c3" , 
+"name": "Mes_1ef2179794d14b63b35973d3bbf7d543" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "622B9CEE-68AE-449B-95EA-FEA0C3EA864A" , 
-"material": "A5C6B165-DDC0-4C4C-93E9-D190293377AE" 
+"geometry": "D224E326-E3FF-44FE-82C4-2FD9BE2CCA11" , 
+"material": "4840365F-665B-408B-9578-D91777BB0698" 
 },
 {
-"uuid": "B8ACA75C-453C-4AA7-B7F6-20254A6F6242" , 
+"uuid": "605AF64F-64BB-4EE4-B52F-2EB39F7D2BF4" , 
 "type": "Mesh" , 
-"name": "Mes_b8aca75c453c4aa7b7f620254a6f6242" , 
+"name": "Mes_605af64f64bb4ee4b52f2eb39f7d2bf4" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "4DDC2114-BFA1-4907-BCC0-A923F6427E43" , 
-"material": "DD9CFE7B-2E69-4924-990A-7DE00A15CA9C" 
+"geometry": "23573B50-786D-4609-A23F-DB038438741F" , 
+"material": "17F2F8FA-F238-4357-B888-9B94E222F742" 
 },
 {
-"uuid": "677FD55A-F9AB-4D4D-8762-DC4634F5A39D" , 
+"uuid": "86FA38AB-4C64-45C3-8185-984CE1F65A16" , 
 "type": "Mesh" , 
-"name": "Mes_677fd55af9ab4d4d8762dc4634f5a39d" , 
+"name": "Mes_86fa38ab4c6445c38185984ce1f65a16" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "3E3CF218-D24E-4CBB-9DD0-04DB7D88A08A" , 
-"material": "47503F30-8D95-4E58-BD4D-F4BF90CB41BF" 
+"geometry": "1E9472FC-DC6F-4054-9E4E-B25DFC5979A8" , 
+"material": "8C9AED00-20A1-431D-80E5-D577E8BC1480" 
 },
 {
-"uuid": "F2C5BD26-7CEA-4907-A6FD-D4557D1CFD40" , 
+"uuid": "C9DF0FED-23C2-41A8-8A65-C30A321A4254" , 
 "type": "Mesh" , 
-"name": "Mes_f2c5bd267cea4907a6fdd4557d1cfd40" , 
+"name": "Mes_c9df0fed23c241a88a65c30a321a4254" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "3946F56F-5402-4508-A2A4-0CFDE64AB582" , 
-"material": "4F4E5DC7-5E49-4733-92A4-E927458F5C4D" 
+"geometry": "FA983FC5-56D8-4C2C-A97F-79EB7182D65D" , 
+"material": "AB0F9D91-FCD7-497F-B97C-AB71A84F5AC4" 
 },
 {
-"uuid": "0F3B3053-F839-43DC-9C66-EB988461C15A" , 
+"uuid": "A3CC2CDB-D521-442A-A57D-DEDB9DC7282D" , 
 "type": "Mesh" , 
-"name": "Mes_0f3b3053f83943dc9c66eb988461c15a" , 
+"name": "Mes_a3cc2cdbd521442aa57ddedb9dc7282d" , 
 "layers": 1 , 
 "matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] , 
-"geometry": "F7313259-3BBB-40DC-8003-2DB86F1D693A" , 
-"material": "9DD989A8-90E0-4EC0-BCE4-36354D3989CD" 
+"geometry": "A48981DA-0EFA-47B3-8605-981769CA1F7F" , 
+"material": "A2FE32EA-6393-4CA0-94CA-3574E20DFD42" 
 }
 ]},
 "scripts": {
